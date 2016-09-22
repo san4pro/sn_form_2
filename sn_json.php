@@ -34,7 +34,7 @@
 	}
 
 	//пользовательские параметры
-	$sn_email ='a.shabunin@demis.ru';
+	$sn_email ='san4pro+sn_f@gmail.com';
 	$sn_request = $_SERVER['REQUEST_URI'];
 	$sn_ip = $_SERVER['REMOTE_ADDR'];
 	$sn_datas = date("d.m.y в H:i");
